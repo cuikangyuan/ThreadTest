@@ -2,56 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8361ce07-0de6-44b2-8c31-ef596adb706b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p_c_allWait/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p_c_allWait/P.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p_c_allWait/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p_c_allWait/ThreadC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p_c_allWait/ThreadP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p_c_allWait/ValueObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p_c_allWait_fix/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p_c_allWait_fix/P.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p_c_allWait_fix/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p_c_allWait_fix/ThreadC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p_c_allWait_fix/ThreadP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p_c_allWait_fix/ValueObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack_1/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack_1/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack_1/P.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack_1/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack_1/ThreadC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack_1/ThreadP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack_4/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack_4/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack_4/P.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack_4/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack_4/ThreadC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack_4/ThreadP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack_new_final/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack_new_final/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack_new_final/P.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack_new_final/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack_new_final/ThreadC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack_new_final/ThreadP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack_old/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack_old/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack_old/P.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack_old/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack_old/ThreadC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack_old/ThreadP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pipeInputOutput/ReadData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pipeInputOutput/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pipeInputOutput/ThreadRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pipeInputOutput/ThreadWtire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pipeInputOutput/WriteData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pipeReaderWriter/ReadData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pipeReaderWriter/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pipeReaderWriter/ThreadRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pipeReaderWriter/ThreadWtire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pipeReaderWriter/WriteData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThreadTest/p_r_test/C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThreadTest/p_r_test/P.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThreadTest/p_r_test/Run.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThreadTest/p_r_test/ThreadC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThreadTest/p_r_test/ThreadP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThreadTest/p_r_test/ValueObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p_r_test/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p_c_test/C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p_r_test/P.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p_c_test/P.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p_r_test/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p_c_test/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p_r_test/ThreadC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p_c_test/ThreadC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p_r_test/ThreadP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p_c_test/ThreadP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p_r_test/ValueObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p_c_test/ValueObject.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,80 +24,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="C.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/stack_new_final/C.java">
+      <file leaf-file-name="WriteData.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pipeReaderWriter/WriteData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            <state relative-caret-position="162">
+              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyStack.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/stack_new_final/MyStack.java">
+      <file leaf-file-name="ThreadRead.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pipeReaderWriter/ThreadRead.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/stack_new_final/P.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+            <state relative-caret-position="288">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+                <element signature="e#441#442#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Run.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/stack_new_final/Run.java">
+        <entry file="file://$PROJECT_DIR$/src/pipeReaderWriter/Run.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="332">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyStack.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/stack_4/MyStack.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="ThreadC.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/stack_4/ThreadC.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="ThreadP.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/stack_4/ThreadP.java">
+      <file leaf-file-name="ThreadWtire.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pipeReaderWriter/ThreadWtire.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="220">
+              <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="C.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/stack_4/C.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="Run.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/stack_4/Run.java">
+      <file leaf-file-name="ReadData.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pipeReaderWriter/ReadData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/stack_4/P.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="72">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -180,12 +116,22 @@
         <option value="$PROJECT_DIR$/src/stack_4/stack_new_final/P.java" />
         <option value="$PROJECT_DIR$/src/stack_4/P.java" />
         <option value="$PROJECT_DIR$/src/stack_4/Run.java" />
+        <option value="$PROJECT_DIR$/src/pipeInputOutput/ThreadWtire.java" />
+        <option value="$PROJECT_DIR$/src/pipeInputOutput/ThreadRead.java" />
+        <option value="$PROJECT_DIR$/src/pipeInputOutput/Run.java" />
+        <option value="$PROJECT_DIR$/src/pipeInputOutput/WriteData.java" />
+        <option value="$PROJECT_DIR$/src/pipeInputOutput/ReadData.java" />
+        <option value="$PROJECT_DIR$/src/pipeReaderWriter/ThreadWtire.java" />
+        <option value="$PROJECT_DIR$/src/pipeReaderWriter/ReadData.java" />
+        <option value="$PROJECT_DIR$/src/pipeReaderWriter/ThreadRead.java" />
+        <option value="$PROJECT_DIR$/src/pipeReaderWriter/Run.java" />
+        <option value="$PROJECT_DIR$/src/pipeReaderWriter/WriteData.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="134" />
-    <option name="y" value="42" />
+    <option name="x" value="193" />
+    <option name="y" value="34" />
     <option name="width" value="1280" />
     <option name="height" value="724" />
   </component>
@@ -214,25 +160,13 @@
               <item name="ThreadTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="ThreadTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="p_c_allWait" type="462c0819:PsiDirectoryNode" />
+              <item name="pipeInputOutput" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ThreadTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="ThreadTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="p_c_allWait_fix" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ThreadTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ThreadTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="stack_4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ThreadTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ThreadTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="stack_new_final" type="462c0819:PsiDirectoryNode" />
+              <item name="pipeReaderWriter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -247,14 +181,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pipeInputOutput" />
       <recent name="stack_1" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pipeReaderWriter" />
       <recent name="$PROJECT_DIR$/src/stack_4" />
       <recent name="$PROJECT_DIR$/src/stack_new_finla" />
       <recent name="$PROJECT_DIR$/src/stack_old" />
       <recent name="$PROJECT_DIR$/src/stack_1" />
-      <recent name="$PROJECT_DIR$/src/p_c_allWait_fix" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -269,25 +204,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Run">
-    <configuration name="Run (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p_c_allWait_fix.Run" />
+  <component name="RunManager" selected="Application.Run (2)">
+    <configuration name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pipeInputOutput.Run" />
       <module name="ThreadTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p_c_allWait_fix.*" />
+          <option name="PATTERN" value="pipeInputOutput.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Run (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stack_1.Run" />
+    <configuration name="Run (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pipeReaderWriter.Run" />
       <module name="ThreadTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stack_1.*" />
+          <option name="PATTERN" value="pipeReaderWriter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -367,19 +302,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Run (2)" />
-      <item itemvalue="Application.Run (3)" />
       <item itemvalue="Application.Run (4)" />
       <item itemvalue="Application.Run (5)" />
       <item itemvalue="Application.Run" />
+      <item itemvalue="Application.Run (1)" />
+      <item itemvalue="Application.Run (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Run (2)" />
+        <item itemvalue="Application.Run (1)" />
         <item itemvalue="Application.Run" />
         <item itemvalue="Application.Run (5)" />
         <item itemvalue="Application.Run (4)" />
-        <item itemvalue="Application.Run (3)" />
-        <item itemvalue="Application.Run (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -397,7 +332,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="134" y="42" width="1280" height="724" extended-state="0" />
+    <frame x="193" y="34" width="1280" height="724" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
@@ -408,12 +343,12 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.18341307" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22647528" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.0877193" />
+      <window_info anchor="bottom" id="Terminal" weight="0.46251994" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16478191" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12600969" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
@@ -679,8 +614,102 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/stack_4/Run.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        <state relative-caret-position="184">
+          <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pipeInputOutput/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pipeInputOutput/ThreadRead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding>
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pipeInputOutput/ThreadWtire.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pipeInputOutput/WriteData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pipeInputOutput/ReadData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pipeReaderWriter/ReadData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pipeReaderWriter/ThreadWtire.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pipeReaderWriter/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pipeReaderWriter/ThreadRead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pipeReaderWriter/WriteData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
         </state>
       </provider>
     </entry>
