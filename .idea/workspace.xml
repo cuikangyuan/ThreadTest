@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8361ce07-0de6-44b2-8c31-ef596adb706b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pipeInputOutput/ReadData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pipeInputOutput/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pipeInputOutput/ThreadRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pipeInputOutput/ThreadWtire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pipeInputOutput/WriteData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pipeReaderWriter/ReadData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pipeReaderWriter/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pipeReaderWriter/ThreadRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pipeReaderWriter/ThreadWtire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pipeReaderWriter/WriteData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wait_notify_insert_test/DBTools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wait_notify_insert_test/Run.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,12 +15,36 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="WriteData.java" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="WriteData.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pipeReaderWriter/WriteData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+            <state relative-caret-position="216">
+              <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DBTools.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/wait_notify_insert_test/DBTools.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="445">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Run.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/wait_notify_insert_test/Run.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="51" column="23" lean-forward="true" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
+              <folding>
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+                <element signature="e#534#535#0" expanded="true" />
+                <element signature="e#580#581#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -36,12 +52,12 @@
       <file leaf-file-name="ThreadRead.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pipeReaderWriter/ThreadRead.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="270">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#388#389#0" expanded="true" />
-                <element signature="e#441#442#0" expanded="true" />
+                <element signature="e#436#437#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -50,8 +66,8 @@
       <file leaf-file-name="Run.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pipeReaderWriter/Run.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="396">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -59,8 +75,8 @@
       <file leaf-file-name="ThreadWtire.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pipeReaderWriter/ThreadWtire.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+            <state relative-caret-position="234">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,8 +87,8 @@
       <file leaf-file-name="ReadData.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pipeReaderWriter/ReadData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="396">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -126,14 +142,16 @@
         <option value="$PROJECT_DIR$/src/pipeReaderWriter/ThreadRead.java" />
         <option value="$PROJECT_DIR$/src/pipeReaderWriter/Run.java" />
         <option value="$PROJECT_DIR$/src/pipeReaderWriter/WriteData.java" />
+        <option value="$PROJECT_DIR$/src/wait_notify_insert_test/Run.java" />
+        <option value="$PROJECT_DIR$/src/wait_notify_insert_test/DBTools.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="193" />
-    <option name="y" value="34" />
+    <option name="x" value="143" />
+    <option name="y" value="26" />
     <option name="width" value="1280" />
-    <option name="height" value="724" />
+    <option name="height" value="723" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -143,7 +161,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -168,12 +185,19 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pipeReaderWriter" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ThreadTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThreadTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="wait_notify_insert_test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -204,7 +228,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Run (2)">
+  <component name="RunManager" selected="Application.Run (3)">
     <configuration name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pipeInputOutput.Run" />
       <module name="ThreadTest" />
@@ -227,13 +251,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Run (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stack_old.Run" />
+    <configuration name="Run (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wait_notify_insert_test.Run" />
       <module name="ThreadTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stack_old.*" />
+          <option name="PATTERN" value="wait_notify_insert_test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,19 +326,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Run (4)" />
       <item itemvalue="Application.Run (5)" />
       <item itemvalue="Application.Run" />
       <item itemvalue="Application.Run (1)" />
       <item itemvalue="Application.Run (2)" />
+      <item itemvalue="Application.Run (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Run (3)" />
         <item itemvalue="Application.Run (2)" />
         <item itemvalue="Application.Run (1)" />
         <item itemvalue="Application.Run" />
         <item itemvalue="Application.Run (5)" />
-        <item itemvalue="Application.Run (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -332,35 +356,35 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="193" y="34" width="1280" height="724" extended-state="0" />
+    <frame x="143" y="26" width="1280" height="723" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22647528" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.46251994" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12600969" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.04952077" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1276252" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -672,15 +696,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pipeReaderWriter/ReadData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="396">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pipeReaderWriter/ThreadWtire.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        <state relative-caret-position="234">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -689,27 +713,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pipeReaderWriter/Run.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="396">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pipeReaderWriter/ThreadRead.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="270">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pipeReaderWriter/WriteData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        <state relative-caret-position="216">
+          <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wait_notify_insert_test/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="51" column="23" lean-forward="true" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
+          <folding>
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wait_notify_insert_test/DBTools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
