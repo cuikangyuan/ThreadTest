@@ -2,31 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8361ce07-0de6-44b2-8c31-ef596adb706b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ThreadLocal11/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadLocalTest/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadLocalTest/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadLocalTest/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadLocalTest/Tools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/joinException/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/joinException/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/joinException/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/joinException/ThreadC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/joinLong/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/joinLong/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/joinMoreTest/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/joinMoreTest/RunFirst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/joinMoreTest/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/joinMoreTest/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/joinTest1/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/joinTest1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/join_sleep_1/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/join_sleep_1/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/join_sleep_1/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/join_sleep_1/ThreadC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/join_sleep_2/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/join_sleep_2/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/join_sleep_2/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/join_sleep_2/ThreadC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritableThreadLocal1/InheritableThreadLocalExt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritableThreadLocal1/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritableThreadLocal1/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritableThreadLocal1/Tools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritableThreadLocal2/InheritableThreadLocalExt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritableThreadLocal2/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritableThreadLocal2/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritableThreadLocal2/Tools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadLocal22/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadLocal22/ThreadLocalExt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadLocal33/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadLocal33/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadLocal33/ThreadLocalExt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadLocal33/Tools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s5/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s5/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s5/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/s5/Tools.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,38 +33,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Tools.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ThreadLocalTest/Tools.java">
+      <file leaf-file-name="InheritableThreadLocalExt.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/InheritableThreadLocal2/InheritableThreadLocalExt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="108">
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+              <folding>
+                <element signature="e#198#199#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+                <element signature="e#311#312#0" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThreadB.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ThreadLocalTest/ThreadB.java">
+      <file leaf-file-name="Run.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/InheritableThreadLocal2/Run.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="47">
-              <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ThreadA.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ThreadLocalTest/ThreadA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Run.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ThreadLocalTest/Run.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-15">
-              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+            <state relative-caret-position="364">
+              <caret line="34" column="58" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="34" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -90,25 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/stack_1/C.java" />
-        <option value="$PROJECT_DIR$/src/stack_1/ThreadP.java" />
-        <option value="$PROJECT_DIR$/src/stack_1/P.java" />
-        <option value="$PROJECT_DIR$/src/p_c_allWait_fix/Run.java" />
-        <option value="$PROJECT_DIR$/src/stack_1/Run.java" />
-        <option value="$PROJECT_DIR$/src/stack_1/ThreadC.java" />
-        <option value="$PROJECT_DIR$/src/stack_1/MyStack.java" />
-        <option value="$PROJECT_DIR$/src/stack_old/stack_1/ThreadP.java" />
-        <option value="$PROJECT_DIR$/src/stack_old/ThreadP.java" />
-        <option value="$PROJECT_DIR$/src/stack_old/Run.java" />
-        <option value="$PROJECT_DIR$/src/stack_old/MyStack.java" />
-        <option value="$PROJECT_DIR$/src/stack_new_finla/stack_old/Run.java" />
-        <option value="$PROJECT_DIR$/src/stack_new_final/MyStack.java" />
-        <option value="$PROJECT_DIR$/src/stack_new_final/Run.java" />
-        <option value="$PROJECT_DIR$/src/stack_4/stack_new_final/P.java" />
-        <option value="$PROJECT_DIR$/src/stack_4/P.java" />
-        <option value="$PROJECT_DIR$/src/stack_4/Run.java" />
-        <option value="$PROJECT_DIR$/src/pipeInputOutput/ThreadWtire.java" />
-        <option value="$PROJECT_DIR$/src/pipeInputOutput/ThreadRead.java" />
         <option value="$PROJECT_DIR$/src/pipeInputOutput/Run.java" />
         <option value="$PROJECT_DIR$/src/pipeInputOutput/WriteData.java" />
         <option value="$PROJECT_DIR$/src/pipeInputOutput/ReadData.java" />
@@ -141,12 +104,31 @@
         <option value="$PROJECT_DIR$/src/ThreadLocalTest/Run.java" />
         <option value="$PROJECT_DIR$/src/ThreadLocalTest/ThreadA.java" />
         <option value="$PROJECT_DIR$/src/ThreadLocalTest/ThreadB.java" />
+        <option value="$PROJECT_DIR$/src/s5/Tools.java" />
+        <option value="$PROJECT_DIR$/src/s5/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/ThreadLocal11/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/s5/ThreadB.java" />
+        <option value="$PROJECT_DIR$/src/s5/Run.java" />
+        <option value="$PROJECT_DIR$/src/ThreadLocal22/ThreadLocalExt.java" />
+        <option value="$PROJECT_DIR$/src/ThreadLocal22/Run.java" />
+        <option value="$PROJECT_DIR$/src/ThreadLocal33/Tools.java" />
+        <option value="$PROJECT_DIR$/src/ThreadLocal33/ThreadLocalExt.java" />
+        <option value="$PROJECT_DIR$/src/ThreadLocal33/Run.java" />
+        <option value="$PROJECT_DIR$/src/ThreadLocal33/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/InheritableThreadLocal1/ThreadLocalExt.java" />
+        <option value="$PROJECT_DIR$/src/InheritableThreadLocal1/Tools.java" />
+        <option value="$PROJECT_DIR$/src/InheritableThreadLocal1/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/InheritableThreadLocal1/InheritableThreadLocalExt.java" />
+        <option value="$PROJECT_DIR$/src/InheritableThreadLocal1/Run.java" />
+        <option value="$PROJECT_DIR$/src/InheritableThreadLocal2/InheritableThreadLocal1/Run.java" />
+        <option value="$PROJECT_DIR$/src/InheritableThreadLocal2/InheritableThreadLocalExt.java" />
+        <option value="$PROJECT_DIR$/src/InheritableThreadLocal2/Run.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="195" />
-    <option name="y" value="28" />
+    <option name="x" value="101" />
+    <option name="y" value="32" />
     <option name="width" value="1280" />
     <option name="height" value="724" />
   </component>
@@ -177,7 +159,19 @@
               <item name="ThreadTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="ThreadTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ThreadLocalTest" type="462c0819:PsiDirectoryNode" />
+              <item name="InheritableThreadLocal1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThreadTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThreadTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="InheritableThreadLocal2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThreadTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThreadTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ThreadLocal33" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -190,17 +184,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="InheritableThreadLocal1" />
+      <recent name="ThreadLocal33" />
+      <recent name="s5" />
       <recent name="joinMoreTest" />
       <recent name="join_sleep_1" />
-      <recent name="pipeInputOutput" />
-      <recent name="stack_1" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/InheritableThreadLocal2" />
+      <recent name="$PROJECT_DIR$/src/ThreadLocal11" />
       <recent name="$PROJECT_DIR$/src/joinMoreTest" />
       <recent name="$PROJECT_DIR$/src/join_sleep_2" />
       <recent name="$PROJECT_DIR$/src/pipeReaderWriter" />
-      <recent name="$PROJECT_DIR$/src/stack_4" />
-      <recent name="$PROJECT_DIR$/src/stack_new_finla" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -215,58 +210,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Run (4)">
+  <component name="RunManager" selected="Application.Run (3)">
     <configuration name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="join_sleep_2.Run" />
+      <option name="MAIN_CLASS_NAME" value="ThreadLocal22.Run" />
       <module name="ThreadTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="join_sleep_2.*" />
+          <option name="PATTERN" value="ThreadLocal22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="Run (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="joinMoreTest.Run" />
+      <option name="MAIN_CLASS_NAME" value="ThreadLocal33.Run" />
       <module name="ThreadTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="joinMoreTest.*" />
+          <option name="PATTERN" value="ThreadLocal33.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="Run (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadLocal11.Run" />
+      <option name="MAIN_CLASS_NAME" value="InheritableThreadLocal2.Run" />
       <module name="ThreadTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThreadLocal11.*" />
+          <option name="PATTERN" value="InheritableThreadLocal2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Run (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadLocalTest.Run" />
+    <configuration name="Run (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InheritableThreadLocal1.Run" />
       <module name="ThreadTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThreadLocalTest.*" />
+          <option name="PATTERN" value="InheritableThreadLocal1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="RunFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="joinMoreTest.RunFirst" />
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="s5.Run" />
       <module name="ThreadTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="joinMoreTest.*" />
+          <option name="PATTERN" value="s5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -313,19 +308,19 @@
       <listeners />
     </configuration>
     <list>
+      <item itemvalue="Application.Run" />
       <item itemvalue="Application.Run (1)" />
       <item itemvalue="Application.Run (2)" />
-      <item itemvalue="Application.RunFirst" />
+      <item itemvalue="Application.Run (5)" />
       <item itemvalue="Application.Run (3)" />
-      <item itemvalue="Application.Run (4)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Run (4)" />
         <item itemvalue="Application.Run (3)" />
-        <item itemvalue="Application.RunFirst" />
+        <item itemvalue="Application.Run (5)" />
         <item itemvalue="Application.Run (2)" />
         <item itemvalue="Application.Run (1)" />
+        <item itemvalue="Application.Run" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +338,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="195" y="28" width="1280" height="724" extended-state="0" />
+    <frame x="101" y="32" width="1280" height="724" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -354,12 +349,13 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2599681" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.11164274" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3290735" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.13397129" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.41626793" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14943457" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15266559" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32854864" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -371,167 +367,12 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/stack_old/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack_new_final/ThreadP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack_new_final/ThreadC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack_new_final/C.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack_new_final/P.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack_new_final/MyStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack_new_final/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack_4/MyStack.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack_4/ThreadC.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack_4/C.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack_4/P.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack_4/ThreadP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack_4/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pipeInputOutput/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pipeInputOutput/ThreadRead.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-          <folding>
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#426#427#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pipeInputOutput/ThreadWtire.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pipeInputOutput/WriteData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pipeInputOutput/ReadData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pipeReaderWriter/ReadData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pipeReaderWriter/ThreadWtire.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pipeReaderWriter/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pipeReaderWriter/ThreadRead.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -727,31 +568,194 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThreadLocalTest/Tools.java">
+    <entry file="file://$PROJECT_DIR$/src/ThreadLocalTest/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreadLocalTest/ThreadB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreadLocal11/ThreadB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreadLocal11/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/s5/Tools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#134#140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/s5/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/s5/ThreadB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/s5/ThreadA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThreadLocalTest/Run.java">
+    <entry file="file://$PROJECT_DIR$/src/ThreadLocal22/ThreadLocalExt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15">
-          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        <state relative-caret-position="162">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreadLocal22/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ThreadLocalTest/ThreadA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        <state relative-caret-position="157">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="25" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThreadLocalTest/ThreadB.java">
+    <entry file="file://$PROJECT_DIR$/src/ThreadLocalTest/Tools.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        <state relative-caret-position="126">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreadLocal33/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreadLocal33/ThreadLocalExt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreadLocal33/Tools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreadLocal33/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InheritableThreadLocal1/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InheritableThreadLocal2/Tools.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InheritableThreadLocal2/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/InheritableThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="50" column="25" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
+          <folding>
+            <element signature="e#1728#1729#0" expanded="true" />
+            <element signature="e#1762#1763#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InheritableThreadLocal1/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="30" lean-forward="true" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InheritableThreadLocal1/Tools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InheritableThreadLocal1/InheritableThreadLocalExt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InheritableThreadLocal2/InheritableThreadLocalExt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding>
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InheritableThreadLocal2/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="34" column="58" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="34" selection-end-column="58" />
         </state>
       </provider>
     </entry>
