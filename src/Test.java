@@ -158,13 +158,13 @@ public class Test {
         LinkedHashMap linkedHashMap = new LinkedHashMap();
 
 
-//        MyThread myThread1 = new MyThread("1");
+//        ThreadA myThread1 = new ThreadA("1");
 //
 //
-//        MyThread myThread2 = new MyThread("2");
+//        ThreadA myThread2 = new ThreadA("2");
 //
 //
-//        MyThread myThread3 = new MyThread("3");
+//        ThreadA myThread3 = new ThreadA("3");
 //
 //
 ////        myThread1.start();
